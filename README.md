@@ -1,10 +1,10 @@
 # hafizhhasyhari-Yotube-Channel-
 hafizhhasyhari Yotube Channel 
-# 🚀 Selamat Datang di Pusat Pembelajaran [Nama Channel Anda]!
+# 🚀 Selamat Datang di Pusat Pembelajaran Hafizh H Asyhari!
 
 <div align="center">
 
-![Banner Channel Anda](httpsimg-via.placeholder.com/1000x300.png?text=BANNER+YOUTUBE+CHANNEL+ANDA)
+![Banner Channel Anda]([httpsimg-via.placeholder.com/1000x300.png?text=BANNER+YOUTUBE+CHANNEL+ANDA](https://www.youtube.com/@hafizhhasyhari/posts))
 
 Ini adalah repositori resmi untuk semua materi, kode, aset, dan sumber daya yang ditampilkan di **[Channel YouTube Saya (Link di Sini)]()**!
 
