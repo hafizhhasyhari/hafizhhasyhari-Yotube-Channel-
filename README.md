@@ -6,11 +6,11 @@ hafizhhasyhari Yotube Channel
 
 ![Banner Channel Anda]([httpsimg-via.placeholder.com/1000x300.png?text=BANNER+YOUTUBE+CHANNEL+ANDA](https://www.youtube.com/@hafizhhasyhari/posts))
 
-Ini adalah repositori resmi untuk semua materi, kode, aset, dan sumber daya yang ditampilkan di **[Channel YouTube Saya (Link di Sini)]()**!
+Ini adalah repositori resmi untuk semua materi, kode, aset, dan sumber daya yang ditampilkan di **[Channel YouTube Saya (Link di Sini)](https://www.youtube.com/@hafizhhasyhari)**!
 
 Tujuan repo ini adalah untuk memberi Anda akses langsung ke semua file yang saya buat di video, sehingga Anda bisa belajar lebih cepat dan lebih baik.
 
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white)](LINK_CHANNEL_YOUTUBE_ANDA)
+[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&logoColor=white)]([LINK_CHANNEL_YOUTUBE_ANDA](https://www.youtube.com/@hafizhhasyhari))
 [![Discord](https://img.shields.io/badge/Discord-Gabung_Komunitas-blue?logo=discord&logoColor=white)](LINK_SERVER_DISCORD_ANDA)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](LINK_LINKEDIN_ANDA)
 
